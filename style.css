@@ -1,0 +1,35 @@
+.body {
+    width: 300px;
+    margin: 0 auto;
+    background-color: rgb(206, 236, 73);
+}
+h1 {
+    color: #330033;
+    font-family: STKaiti;
+    text-align: center;
+    font-size: 50px;
+}
+
+/*#picture {
+    display: flex;
+}
+*/
+
+img {
+    width: 40%;
+    display: block;
+    margin:auto;
+    
+    
+}
+
+.picture {
+    margin: 0;
+    padding: auto;
+}
+p {
+     text-align: center;
+     margin:auto;
+     color: red;
+     font-size: 40px;
+}
